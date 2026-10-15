@@ -51,3 +51,13 @@ git push -u origin main
 - Pure HTML5 + CSS3 + Vanilla JS
 - Google Fonts: Syne (headings) + Inter (body)
 - No frameworks, no build step — deploy anywhere instantly
+
+## SEO implementation status — October 2026
+
+This repository is a static redesign demo, not the verified source of the current production website. The service-positioning update aligns homepage metadata, visible headings, service cards and footer with company formation, business addresses, China sourcing, product development and branding. Existing colors are preserved.
+
+Service links target real sections in this one-page demo. Dedicated service pages remain a separate deliverable. Canonical URL, sitemap, robots rules and production-specific structured data must be configured after confirming the deployment destination; they are intentionally not pointed at an unrelated production implementation.
+
+The contact form had no submission handler. The preview now explicitly says it does not submit, and provides direct email and WhatsApp links. This is not conversion tracking or a form-backend implementation.
+
+Placeholder privacy/terms links have been replaced by a clearly labeled request link. Actual policies still require business details and must be written and published before a production launch. Existing pricing, testimonials/trust claims, processing times and legal/financial FAQ statements have not been verified by this SEO patch; review them before launch. No production domain changes are included.
